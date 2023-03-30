@@ -23,30 +23,15 @@ Here are some ideas to get you started:
 
 ### Currently working on:
 
-- [Name of repo you're working on]
+- [Sistema-de-Gerenciamento-de-Faculdade]
 
 ### Currently learning:
 
 - React
 - TypeScript
-
-<p align="left">
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="rust" width="40" height="40"/>
-  </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="[https://img.icons8.com/color/48/000000/rust-programming-language.png](https://icons8.com/icon/wPohyHO_qO1a/react)" alt="rust" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/deno-logo.png" alt="deno" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="machine learning" width="40" height="40"/>
-  </a>
-</p>
+- Deno
+- Rust
+- Machine Learning
 
 ### How to reach me:
 
