@@ -73,14 +73,6 @@ Here are some ideas to get you started:
 - Flutter
 - Machine Learning
 
-### Top Languages:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukreitor&show_icons=true&locale=en&layout=compact" alt="lukreitor" /></p>
-
-### GitHub Stats:
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukreitor&show_icons=true&locale=en" alt="lukreitorstats" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukreitor&show_icons=true&locale=en&layout=compact" alt="lukreitor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukreitor&show_icons=true&locale=en" alt="lukreitorstats" /></p>
