@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Lucas! 👋
 
 [Insert custom emoji or image here]
 
@@ -79,5 +79,5 @@ Here are some ideas to get you started:
 
 ### GitHub Stats:
 
-[Insert GitHub stats for your user lukreitor]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukreitor&show_icons=true&locale=en" alt="lukreitorstats" /></p>
 
