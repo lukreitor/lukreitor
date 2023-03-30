@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Lucas! 👋
+<h1 align="center">Hi 👋, I'm Lucas</h1>
 
 [Insert custom emoji or image here]
 
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ### Top Languages:
 
-[Insert the most used languages in your GitHub profile]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukreitor&show_icons=true&locale=en&layout=compact" alt="lukreitor" /></p>
 
 ### GitHub Stats:
 
