@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 
-[Insert custom emoji or image here]
-
 ---
 
 ### Currently working on:
 
 - [Sistema-de-Gerenciamento-de-Faculdade]
+- [CarInsuranceContract]
+- [PhotosCP]
+- [TicketRU]
 
 ### Currently learning:
 
@@ -39,11 +40,11 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-- [Insert social media icons with links to your profiles]
+- Instagram
 
-### Languages and Tools:
+### Tools:
 
-[Insert logos of the languages and tools you're familiar with]
+
 
 #### Languages:
 
