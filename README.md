@@ -26,10 +26,8 @@ Here are some ideas to get you started:
 ### Currently learning:
 
 - React
-- TypeScript
-- Deno
-- Rust
-- Machine Learning
+- React Native
+- .NET
 
 ### How to reach me:
 
@@ -64,11 +62,12 @@ Here are some ideas to get you started:
 - Lumen
 - Arduino
 
-#### Learning:
+#### Wanting to Learn:
 
 - Rust
 - Deno
 - Flutter
+- Typescript
 - Machine Learning
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukreitor&show_icons=true&locale=en&layout=compact" alt="lukreitor" /></p>
