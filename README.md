@@ -20,11 +20,8 @@ Here are some ideas to get you started:
 ---
 
 ### Currently working on:
-
-- [Sistema-de-Gerenciamento-de-Faculdade]
-- [CarInsuranceContract]
 - [PhotosCP]
-- [TicketRU]
+- [TicketRU Android]
 
 ### Currently learning:
 
