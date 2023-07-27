@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - 🧩 Interested In : Technology, Astronomy, Fun
 -💡 Equipments : Sarcasm, Knowledge, .Net, Java, nodejs, PHP, webdev
 -⚡ Fun Fact : **Prefer Chai ☕  over coffee**
-- 📝 [Resume]([https://drive.google.com/file/d/1J79L3laKdUfjyP44nHjJ6E50oFebs5if/view?usp=drivesdk](https://lucassena.hackerresume.io/857b5016-3f86-4798-a1de-cae950febf6f))
+- 📝 [Resume](https://lucassena.hackerresume.io/857b5016-3f86-4798-a1de-cae950febf6f)
 - 💬 Ask me about anything [here](https://github.com/lukreitor/lukreitor/discussions/3) ! I am happy to help.
 
 
