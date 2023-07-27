@@ -93,3 +93,16 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukreitor&show_icons=true&locale=en&layout=compact" alt="lukreitor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukreitor&show_icons=true&locale=en" alt="lukreitorstats" /></p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/PtPrashantTripathi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PtPrashantTripathi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PtPrashantTripathi&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="github-readme-streak-stats.herokuapp.svg"/></a>
+</p>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
