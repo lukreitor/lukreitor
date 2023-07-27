@@ -32,19 +32,25 @@ Here are some ideas to get you started:
 - [PhotosCP]
 - [TicketRU Android]
 
-### Currently learning:
+### Talking about Personal Stuffs:
 
-- React
-- React Native
-- .NET
+- 👨‍💻 Portfolio  [ptprashanttripathi.github.io](https://lukreitor.github.io)
+- 👨🎓 Experience Level : 3+ years
+- 💻 I’m Currently Watching : One piece 🚀
+-  💻 I’m Currently Reading : One piece 🚀
+ 💻 I’ll Watch : One piece: The Serie 🚀
+- 🧩 Interested In : Technology, Astronomy, Fun
+-💡 Equipments : Sarcasm, Knowledge, .Net, Java, nodejs, PHP, webdev
+-⚡ Fun Fact : **Prefer Chai ☕  over coffee**
+- 📝 [Resume]([https://drive.google.com/file/d/1J79L3laKdUfjyP44nHjJ6E50oFebs5if/view?usp=drivesdk](https://lucassena.hackerresume.io/857b5016-3f86-4798-a1de-cae950febf6f))
+- 💬 Ask me about anything [here](https://github.com/lukreitor/lukreitor/discussions/3) ! I am happy to help.
+
 
 ### How to reach me:
 
 - 📧 Email: contato@nerding.com.br
-
-### Connect with me:
-
-- Instagram
+- 📧 Email: lucassena@alunos.utfpr.edu.br
+- 📧 Email: auxlucas57@gmail.com
 
 ### Tools:
 
