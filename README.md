@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/username)  
 ![counter](https://komarev.com/ghpvc/?username=ptprashanttripathi&style=flat-square)
 
-### Hi there 👋
+## Hello World! 👋
 
 <!--
 **lukreitor/lukreitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Lucas</h1>
+### Glad to see you here! 🤩 &nbsp; 
+
+>I am looking for opportunities and collabaration in projects related to data science and deep learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. Although A computer science engineer working with Devlopment tools and looking forward to Share and Gain knowledgeable stuff☘️.
+
+
 
 ---
 
