@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/PtPrashantTripathi/PtPrashantTripathi/master/PicsArt_07-21-08.59.54.jpg)
+![banner](https://raw.githubusercontent.com/lukreitor/lukreitor/master/PicsArt_07-21-08.59.54.jpg)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lukreitor) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasmartins-2001-2018/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucas15_m.s/) 
