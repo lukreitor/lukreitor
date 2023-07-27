@@ -100,7 +100,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/PtPrashantTripathi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lukreitor&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lukreitor&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-  <img height="180em" src="github-readme-streak-stats.herokuapp.svg"/></a>
 </p>
 
 <div align="center">
