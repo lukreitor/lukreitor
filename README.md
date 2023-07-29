@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Talking about Personal Stuffs:
 
-- 👨‍💻 Portfolio  [ptprashanttripathi.github.io](https://lukreitor.github.io)
+- 👨‍💻 Portfolio  [lukreitor.github.io](https://lukreitor.github.io)
 - 👨🎓 Experience Level : 3+ years
 - 💻 I’m Currently Watching : One piece 🚀
 -  💻 I’m Currently Reading : One piece 🚀
