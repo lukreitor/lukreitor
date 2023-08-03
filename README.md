@@ -58,7 +58,10 @@ Here are some ideas to get you started:
 - 📧 Email: auxlucas57@gmail.com
 
 ### Tools:
-
+- Innoveo Business Canvas
+- Trello / Jira
+- MS Office, Teams, LibryOffice
+- Windows / Linux
 
 
 #### Languages:
@@ -81,6 +84,14 @@ Here are some ideas to get you started:
 - LaTeX
 - Lumen
 - Arduino
+
+#### Learning:
+
+- React Native
+- Svelthe
+- Golang
+- .Net Core / Asp .Net
+- Machine Learning
 
 #### Wanting to Learn:
 
