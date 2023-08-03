@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 - Vite
 - PHP
 - Laravel
-- SQL/MySQL
+- SQL Server/MySQL/Postgres/H2/
 - Vue
 - JQuery
 - Sass
