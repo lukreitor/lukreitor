@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 - Golang
 - .Net Core / Asp .Net
 - Machine Learning
+- Angular
 
 #### Wanting to Learn:
 
