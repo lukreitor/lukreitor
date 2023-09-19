@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [TicketRU Android]
 - [Portfolio]
 - [Projeto Dispositivos Móveis]
-- [TCC]
+- [Copel Hackathon]
 
 ### Talking about Personal Stuffs:
 
