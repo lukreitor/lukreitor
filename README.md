@@ -35,9 +35,8 @@ Here are some ideas to get you started:
 
 ### Currently working on:
 - [PhotosCP]
-- [TicketRU Android]
-- [Portfolio]
-- [Projeto Dispositivos Móveis]
+- [Dulloo]
+- [Nerding V2]
 - [Copel Hackathon]
 
 ### Talking about Personal Stuffs:
